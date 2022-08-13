@@ -1,6 +1,7 @@
 baseURL = 'https://metamart.games/'
 languageCode = 'en-us'
 title = 'Metamart | metamart.games'
+theme = 'paper'
 
 [params]
 github = 'metamartgames'
